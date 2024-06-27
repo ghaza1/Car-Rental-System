@@ -1,2 +1,2 @@
 # Car-Rental-System
-Simple care rental system that allows users to reserve car
+Simple car rental system that allows users to reserve car
